@@ -1,5 +1,6 @@
-models/
 *.json
 *.jsonl
 *.csv
 *.xlsx
+models/checkpoint*
+models/vnp*
